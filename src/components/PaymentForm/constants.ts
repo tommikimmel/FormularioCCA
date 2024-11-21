@@ -1,0 +1,25 @@
+import { ClubMember } from './types';
+
+export const CLUB_MEMBERS: ClubMember[] = [
+  { id: 1, name: 'Tomas Kimmel' },
+  { id: 2, name: 'Gustavo Kimmel' },
+  { id: 3, name: 'Bernardo Firamonti' },
+  { id: 4, name: 'Daniel Carranza' },
+  { id: 5, name: 'Mauricio Zanatta' },
+  { id: 6, name: 'Walter Moron' },
+  { id: 7, name: 'Carlos Calvo' },
+  { id: 8, name: 'Ernesto Porcel' },
+  { id: 9, name: 'Tomas Carranza' },
+  { id: 10, name: 'Luis Ordoñez' },
+  { id: 11, name: 'Miguel Ibieta' },
+  { id: 12, name: 'Walter Nievas' },
+  { id: 13, name: 'Ricardo Schroder' },
+  { id: 14, name: 'Gabriel Ferreyra' },
+  { id: 15, name: 'Juan Carlos Bay' },
+  { id: 16, name: 'Fernando Cisneros' },
+  { id: 17, name: 'Mirco' },
+  { id: 18, name: 'Miguel' },
+  { id: 19, name: 'Juan Carlos' },
+  { id: 20, name: 'Eric' },
+  { id: 21, name: 'Genaro' },
+];
